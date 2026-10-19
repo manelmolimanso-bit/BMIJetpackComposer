@@ -1,3 +1,4 @@
 INTERFICIE MÉS PULIDA
 
-<img width="195" height="417" alt="image" src="https://github.com/user-attachments/assets/d6cb0643-20c3-4c44-a8dc-6c8699a8bccf" />
+<img width="270" height="477" alt="image" src="https://github.com/user-attachments/assets/ebf2ca0c-cbee-4859-9be7-b72b5a9730e3" />
+
